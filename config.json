@@ -1,0 +1,17 @@
+{
+    "domains": [
+        "aHR0cDovLzQ3LjExNS43My4xNTk6MjM1ODgv",
+        "aHR0cHM6Ly94Ym9hcmQud3VmZW5nLm1l",
+        "aHR0cHM6Ly94Ym9hcmQud3VmZW5nLm1l"
+    ],
+    "countdownDuration": 5,
+    "pageTitle": "跳转到我的网站",
+    "theme": "forest",
+    "footerCode": "<p style='text-align: center; margin-top: 20px; color: #666;'>© 2023 My Website. All rights reserved.</p>",
+    "popup": {
+        "title": "重要通知",
+        "content": "您无法访问，网站请联系网站管理人员<p>联系方式：xxxx",
+        "buttonText": "确定",
+        "buttonLink": "#"
+    }
+}
